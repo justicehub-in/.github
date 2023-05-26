@@ -1,6 +1,8 @@
 ## About Justice Hub
 
-<p align="center">[![][cover]][jh]</p>
+<p align="center">
+[![][cover]][jh]
+</p>
 
 An open data platform to crowd source datasets around law and justice and make them more accessible and actionable. [Justice Hub][jh] also represents a community of people who seek to use data to understand the justice ecosystem. The platform was launched in September 2021 and the seeds were planted in 2019 with the Data for Justice challenge by [Agami][agami].
 
