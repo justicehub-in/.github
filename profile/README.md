@@ -1,7 +1,7 @@
 ## About Justice Hub
 
 <p align="center">
-<img title="JH Banner" alt="Justice Hub banner" src="https://github.com/justicehub-in/.github/blob/7a600c4a45ec511c0a087e9a6e5f0dbc906f74ba/profile/jh-banner.jpeg">
+<a href="https://justicehub.in" target="_blank"><img title="JH Banner" alt="Justice Hub banner" src="https://github.com/justicehub-in/.github/blob/7a600c4a45ec511c0a087e9a6e5f0dbc906f74ba/profile/jh-banner.jpeg"></a>
 </p>
 
 An open data platform to crowd source datasets around law and justice and make them more accessible and actionable. [Justice Hub][jh] also represents a community of people who seek to use data to understand the justice ecosystem. The platform was launched in September 2021 and the seeds were planted in 2019 with the Data for Justice challenge by [Agami][agami].
